@@ -6,7 +6,7 @@ public class Ave extends Animal {
 	public static int halcones;
 	public static int aguilas;
 	private String colorPlumas;
-	private static ArrayList <Ave> listado = new ArrayLis t<Ave>();
+	private static ArrayList <Ave> listado = new ArrayList <Ave>();
 
 	public Ave(){
 		super();
